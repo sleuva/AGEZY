@@ -297,7 +297,7 @@ The system is designed to be deployable on:
 
 # 👨‍💻 Author
 
-Developed by Sahil Luva
+Developed by Sahil Leuva.
 B.Tech – Information Technology
 
 ---
